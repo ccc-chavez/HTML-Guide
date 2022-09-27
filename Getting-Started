@@ -1,0 +1,43 @@
+So you want to make websites using HTML? Here is a quick guide to help you set up.
+
+First, you need to create a repository, use whatever name you like, as this does not affect your website.
+You will then want to use create a new file. Name it whatever but with rules:
+
+-No spaces can be used, if you want to use these replace them with a dash ( - )
+-It must include .html at the end, otherwise it will not register as a page (Example of a name: main.html )
+-You can't name it using fonts or text, otherwise you won't be able to type it into the searchbar when you want to view your website
+
+Once you have named your file you need to type in <!DOCTYPE HTML> (This formats the file you creatd to display on your github page.)
+After that, you need to press enter then type in <html>
+Press enter again then type in <body>
+
+Once you have done that your code should look like this:
+
+<!DOCTYPE HTML>
+<html>
+<body>
+
+Now, you need to add some kind of text to your site so when you look at it so when you look at your website it isn't blank.
+There are a few types of text:
+
+-Headings
+-Plain text
+-Text masked links
+
+When it comes to text, it's not the same as formatting, in this page we're just going into headings.
+
+To add a heading to your website, you need to type in <h>
+After that, type anything in (spaces are acceptable with text) then type in </h>
+
+When it comes to text and embeds and other forms of html, you start with something like <h>
+Then close it with </h>
+The letter may very with whatever task is being carried out, but closing brackets always have a slash ( / ) before the letter.
+
+Your header's code should look like this:
+
+<h>The Name Of Your Website</h> (Once more, choose the text that goes there!)
+
+When you are ready to view your site, save the file, then create a github page, settings > pages
+Make sure the branch is main, you can select the name of your website.  Once you create it you can visit your page.
+
+Refer to page 2 for the next steps.
